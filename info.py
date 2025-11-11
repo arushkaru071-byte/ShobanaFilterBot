@@ -51,7 +51,7 @@ FILE_CHANNEL_SENDING_MODE = is_enabled(environ.get('FILE_CHANNEL_SENDING_MODE', 
 FILE_AUTO_DELETE_SECONDS = int(environ.get('FILE_AUTO_DELETE_SECONDS', 3600))  # Default: 1 hour
 
 # Others
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002704640995'))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL',1002704640995') '-1002704640995')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'mnbots_support')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', 'False')), False)
 IMDB = is_enabled((environ.get('IMDB', 'False')), False)
