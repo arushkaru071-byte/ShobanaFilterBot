@@ -67,14 +67,14 @@
 ## 🔧 Variables
 
 ### Required
-- `BOT_TOKEN`: Obtain via [@BotFather](https://telegram.dog/BotFather).  
+- `BOT_TOKEN`: Obtain via [@BotFather](7404094434:AAGLCv53tZpJfzfSNnXDDNgj4vEwHHuci_E).  
 - `API_ID`: Get this from [Telegram Apps](https://my.telegram.org/apps).  
-- `API_HASH`: Also from [Telegram Apps](https://my.telegram.org/apps).  
-- `CHANNELS`: Telegram channel/group usernames or IDs (space-separated).  
-- `ADMINS`: Admin usernames or IDs (space-separated).  
-- `DATABASE_URI`: MongoDB URI ([Learn More](https://youtu.be/1G1XwEOnxxo)).  
-- `DATABASE_NAME`: MongoDB database name ([Learn More](https://youtu.be/Miajl2amrKo)).  
-- `LOG_CHANNEL`: Telegram channel for activity logs.  
+- `API_HASH`: Also from [Telegram Apps](BOT_TOKEN: 7404094434:AAGLCv53tZpJfzfSNnXDDNgj4vEwHHu).  
+- `CHANNELS`: Telegram channel/group usernames or IDs (1002658908912).  
+- `ADMINS`: Admin usernames or IDs (6970728256 @laser_of_telegram).  
+- `DATABASE_URI`: MongoDB URI ([Learn More](mongodb+srv://FAX:KOTHA@cluster0.wdguevq.mongodb.net/?appName=Cluster0).  
+- `DATABASE_NAME`: MongoDB database name ([Learn More](cluster0).  
+- `LOG_CHANNEL`:  (1003082828281)
 
 ### Optional
 - `PICS`: Telegraph links for images in start message (space-separated).  
