@@ -74,7 +74,7 @@
 - `ADMINS`: Admin usernames or IDs (6970728256 @laser_of_telegram).  
 - `DATABASE_URI`: MongoDB URI ([Learn More](mongodb+srv://FAX:KOTHA@cluster0.wdguevq.mongodb.net/?appName=Cluster0).  
 - `DATABASE_NAME`: MongoDB database name ([Learn More](cluster0).  
-- `LOG_CHANNEL`:  (1003082828281)
+- `LOG_CHANNEL`:  (1003082828281
 
 ### Optional
 - `PICS`: Telegraph links for images in start message (space-separated).  
